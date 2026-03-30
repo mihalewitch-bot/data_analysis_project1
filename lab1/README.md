@@ -3,7 +3,7 @@
 Файл: `insurance.csv`
 
 age - возраст - int
-sex - пол - category)
+sex - пол - category
 bmi - индекс массы тела - float
 children - число детей - int
 smoker - курит ли застрахованный - category
